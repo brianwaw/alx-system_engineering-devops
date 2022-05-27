@@ -3,3 +3,4 @@ the second script displays the content of the current working directory
 the third script shows how one can navigate to the home directory at once
 fourth script enables one to list directory content in long format
 fifth script displays the hidden files in long format
+the sixth script helps display digit form of files including the hidden ones
