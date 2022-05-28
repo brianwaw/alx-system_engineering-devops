@@ -8,3 +8,4 @@ the seventh script helps to move the file betty in the new destination that has 
 the ninth script is to allow deleletion of betty
 script to delete my_first_directory
 navigate to the previous derectory
+script to list all files in the dir
