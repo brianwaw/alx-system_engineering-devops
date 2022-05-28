@@ -10,3 +10,4 @@ script to delete my_first_directory
 navigate to the previous derectory
 script to list all files in the dir
 script to display file type 
+script to create link
